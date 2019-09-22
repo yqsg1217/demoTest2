@@ -52,7 +52,7 @@ namespace ConsoleApplication1
             //b.PrintFileds();
 
             //实例7
-            Console.WriteLine("x={0},y={1}", A4.X, B4.Y);
+            Console.WriteLine("x={0},y={1}", A4.X, B4.Y); 
 
             //Cat cat = new ConsoleApplication1.Cat();
             //Mouse mouse = new ConsoleApplication1.Mouse();
